@@ -114,7 +114,11 @@ Incorrect answer → difficulty decreases
 
 # Demo
 
-See `DEMO_SCRIPT.md` for the walkthrough used in the demo video.
+## Demo Video
+
+Watch the demo here:
+
+https://www.loom.com/share/12108ccdd1e44253adfc11868e5fede6
 
 ---
 
